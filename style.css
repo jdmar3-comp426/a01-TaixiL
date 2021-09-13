@@ -1,0 +1,61 @@
+body {
+    background-color: cadetblue;
+}
+
+h1 {
+    font-size: x-large;
+    color: dimgray;
+}
+
+p {
+    height: 200px;
+    width: 50%;
+    border: 2px solid powderblue;
+    font-size: medium;
+}
+
+p1 {
+    border: 2px solid powderblue;
+    font-size: medium;
+}
+
+h2 {
+    font-size: xx-large;
+    color:sienna;
+}
+
+a:link {
+    color: red;
+  }
+  
+  /* visited link */
+  a:visited {
+    color: green;
+  }
+  
+  /* mouse over link */
+  a:hover {
+    color: mediumvioletred;
+  }
+  
+  /* selected link */
+  a:active {
+    color: midnightblue;
+  }
+
+p1.intro {
+    background-color: pink;
+  }
+
+#relation {
+      color: red;
+      text-align: center;
+  }
+
+div > p {
+    background-color: yellow;
+  }
+
+#title {
+    font-size:3cm;
+}

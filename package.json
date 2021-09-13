@@ -1,0 +1,19 @@
+{
+  "name": "myhtml",
+  "version": "1.0.0",
+  "description": "myth",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a01-TaixiL.git"
+  },
+  "author": "Taixi Lu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a01-TaixiL/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a01-TaixiL#readme"
+}
