@@ -54,9 +54,12 @@ p.intro {
   text-align: center;
 }
 
-div > p {
+div {
   background-color:#f0e68c;
-}
+  }
+  div p {
+    background-color: ivory;
+  }
 
 #title {
   font-size:3cm;
